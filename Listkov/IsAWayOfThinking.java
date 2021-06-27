@@ -16,15 +16,3 @@ public class Ostrich extends Bird {
 
 }
 
-public class CarUtils {
-
-    public static void main(String[] args) {
-        Car first = new Car();
-        Car second = new Car();
-        Car third = new RacingCar();
-
-        List<Car> myCars = new ArrayList();
-
-    }
-
-}

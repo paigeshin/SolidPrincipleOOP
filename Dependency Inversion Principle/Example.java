@@ -57,7 +57,7 @@ public class ProductFactory {
 
 }
 
-//Abstraction 
+//Abstraction  
 public interface ProductRepository {
 
     public List<String> getAllProductNames();
