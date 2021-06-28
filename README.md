@@ -3,7 +3,7 @@
 - S, SRP: Single Responsibility Principle
 - O, OCP: Open Closed Principle 
 - L, Listkov 
-- I, ISP: Intergration Segration Principle
+- I, ISP: Interface Segregation Principle
 - D, Dependency Inversion Principle
 
 
